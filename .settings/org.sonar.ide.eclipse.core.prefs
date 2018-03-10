@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.jdbc.url\=jdbc\:h2\:tcp\://alf-pdf-001-d/sonar\r\nsonar.host.url\=http\://alf-pdf-001-d\:9000
+projectKey=MySamples\:MySamples
+serverUrl=http\://localhost\:9000
+version=2
